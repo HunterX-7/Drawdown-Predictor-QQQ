@@ -67,6 +67,20 @@ Clone this repository to your desired folder:
 git clone https://github.com/HunterX-7/Drawdown-Predictor-QQQ.git
 ```
 
+Run command prompt as an admin
+
+```sh
+pip install notebook
+```
+
+```sh
+cd project-folder
+```
+
+```sh
+python -m notebook
+```
+
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
