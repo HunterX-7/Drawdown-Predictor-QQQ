@@ -28,7 +28,7 @@
 
 The QQQ Drawdown Detection project is a comprehensive machine learning system developed in Python and Jupyter Notebooks. Leveraging powerful libraries such as Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TA-Lib, and yfinance, the study aims to identify and predict drawdown periods in the QQQ ETF to uncover optimal investment opportunities.
 
-<img src="./chart-line-solid-full.svg" alt="Chart" />
+<img src="./Charts/qqq_price_drawdowns.png" alt="Chart" width="900"  height="auto" />
 
 </br>
 
